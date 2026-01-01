@@ -18,6 +18,9 @@ This task aims to create spatial vector data by digitizing features from a geore
 - Identify the target **kabupaten** using Google Maps.
 - Zoom into a specific area within the study region.
 
+### Google Maps Screenshot
+![Google Maps Screenshot](https://github.com/rafiadyatma/Creating-Data-Vector/blob/53553d14380a72e1b7a9198b4967ae5aee551b44/Screenshot%20(1451).png
+
 ### 2. Screenshot and Control Points
 - Capture a screenshot of the selected Google Maps area.
 - Select **four control points** that can be clearly identified and referenced.
