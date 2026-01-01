@@ -19,7 +19,7 @@ This task aims to create spatial vector data by digitizing features from a geore
 - Zoom into a specific area within the study region.
 
 ### Google Maps Screenshot
-![Google Maps Screenshot](https://github.com/rafiadyatma/Creating-Data-Vector/blob/53553d14380a72e1b7a9198b4967ae5aee551b44/Screenshot%20(1451).png
+![Google Maps Screenshot](https://github.com/rafiadyatma/Creating-Data-Vector/blob/53553d14380a72e1b7a9198b4967ae5aee551b44/Screenshot%20(1451).png)
 
 ### 2. Screenshot and Control Points
 - Capture a screenshot of the selected Google Maps area.
@@ -62,5 +62,5 @@ Include the following screenshots in the report:
 ---
 
 ## Result
-
+![result](https://github.com/rafiadyatma/Creating-Data-Vector/blob/9c369fd88139804bdbaebe1710e99ee7ea141266/SS_Result/Screenshot%202023-10-29%20124802.png)
 The final output consists of georeferenced raster imagery, digitized vector layers, and properly populated attribute tables, demonstrating fundamental GIS data creation techniques.
